@@ -1,0 +1,15 @@
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\obj\Debug\netcoreapp2.0\Shop.API.csprojAssemblyReference.cache
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\obj\Debug\netcoreapp2.0\Shop.API.AssemblyInfoInputs.cache
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\obj\Debug\netcoreapp2.0\Shop.API.AssemblyInfo.cs
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\obj\Debug\netcoreapp2.0\Shop.API.csproj.CoreCompileInputs.cache
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\Shop.API.deps.json
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\Shop.API.runtimeconfig.json
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\Shop.API.runtimeconfig.dev.json
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\Shop.API.dll
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\obj\Debug\netcoreapp2.0\Shop.API.genruntimeconfig.cache
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\bin\Debug\netcoreapp2.0\Shop.API.pdb
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\obj\Debug\netcoreapp2.0\Shop.API.dll
+C:\Users\PSF 06\Downloads\Pevaar\Paths\#1\Challenge\Shop\obj\Debug\netcoreapp2.0\Shop.API.pdb
